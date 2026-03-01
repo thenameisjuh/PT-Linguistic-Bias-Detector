@@ -1,5 +1,6 @@
-# Bibliotecas necessárias para correr os projetos de Joana Freitas
-pandas>=2.0.0
-nltk>=3.8.1
-matplotlib>=3.7.0
-numpy>=1.24.0
+spacy
+newspaper3k
+fpdf2
+pandas
+matplotlib
+numpy
